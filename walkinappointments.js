@@ -9,7 +9,7 @@ document.getElementsByTagName("p")[11].innerHTML = '名';
 document.getElementsByTagName("p")[13].innerHTML = '（国番号）';
 document.getElementsByTagName("p")[15].innerHTML = '電話番号';
 document.getElementsByTagName("p")[18].innerHTML = '[Submit]をクリックすることにより、「個人情報収集に関する声明 」に記載されている利用規約を読み、理解し、同意したことに承諾します。Z.com Tradeから販促用資料を私に電話、またはメールで連絡、送付するかもしれないことを受け入れます。';
-document.getElementsByTagName("div")[17].innerHTML = '下記のフォームを記入し、アポイントメントを作成してCS担当と相談しましう。その他、3923-8088に電話するか、<a href="mailto:cs.trade.hk@z.com"><img src="/hk/static/en/common/images/img_mail_cs.png" alt=""></a> かページの一番下にある <div id="LP_DIV_1471877228622" class="livechat-text"><div id="LPMcontainer-1558340428997-4" class="LPMcontainer LPMoverlay" role="button" tabindex="0" style="margin: 1px; padding: 0px; border-style: solid; border-width: 0px; font-style: normal; font-weight: normal; font-variant: normal; list-style: none outside none; letter-spacing: normal; line-height: normal; text-decoration: none; vertical-align: baseline; white-space: normal; word-spacing: normal; background-repeat: repeat-x; background-position: left bottom; cursor: auto; display: block; position: relative; top: 0px; left: 0px;"><div data-lp-event="click">オンラインチャット</div></div></div> でも予約できます。';
+document.getElementsByTagName("div")[17].innerHTML = '下記のフォームを記入し、アポイントメントを作成してCS担当と相談しましう。その他、3923-8088に電話するか、<a href="mailto:cs.trade.hk@z.com"><img src="/hk/static/en/common/images/img_mail_cs.png" alt=""></a> かページの一番下にあるオンラインチャットでも予約できます。';
 document.getElementsByTagName("th")[0].innerHTML = 'お名前*';
 document.getElementsByTagName("th")[1].innerHTML = 'メールアドレス*';
 document.getElementsByTagName("th")[2].innerHTML = 'ご希望な面談時間（日付と時刻）*';
